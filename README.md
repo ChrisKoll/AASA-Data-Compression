@@ -5,7 +5,7 @@ This project was created as part of the Advanced Algorithms of Sequence Analysis
 
 Files Included:
 
-    1. `encode.py`: This file contains the implementation of the compression algorithm. It reads input files, compresses their contents, and saves the compressed data to a new file.
-    2. `decode.py`: This file provides the implementation of the decompression algorithm. It takes compressed files, restores their original contents, and writes the decompressed data back to a new file.
+    1. encode.py: This file contains the implementation of the compression algorithm. It reads input files, compresses their contents, and saves the compressed data to a new file.
+    2. decode.py: This file provides the implementation of the decompression algorithm. It takes compressed files, restores their original contents, and writes the decompressed data back to a new file.
 
 These scripts are designed to demonstrate the principles of file compression and decompression, offering a straightforward example of how data can be efficiently encoded and decoded.
